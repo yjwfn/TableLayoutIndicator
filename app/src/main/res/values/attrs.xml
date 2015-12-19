@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ShapeIndicatorView">
+        <attr name="horizontalSpace" format="reference|integer"></attr>
+        <attr name="fullColor" format="reference|color"></attr>
+        <attr name="radius" format="reference|integer"></attr>
+    </declare-styleable>
+
+</resources>
